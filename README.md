@@ -3,7 +3,7 @@
 - I have taken data from CSV files and Run Multiple APIs at a time using 3 Threads group in Jmeter and generate HTML summary report.
 
 ### Description
-From the dmoney API collection, create another JMeter collection (dmoney.jmx) for the following scenario: (Score: 50)
+From the dmoney API collection, create JMeter collection (dmoney.jmx) for the following scenario: 
 
 ### Scenario:
 - 5 agents perform deposits for 10 customers.
